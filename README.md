@@ -3,4 +3,4 @@ format data.py: takes the raw data saved automatically from the oscilloscope and
 make data lists.py: sorts formatted data into usable lists for creating plots
 make plots.py: makes plots
 
-further comments on each program and line are written in the python scripts themselves
+Further comments on each program and line are written in the python scripts themselves.
